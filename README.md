@@ -1,4 +1,5 @@
 # Simple Interest Calculator
+This project calculates simple interest using Python and Bash.
 
 A simple Python program to calculate **Simple Interest**.
 
