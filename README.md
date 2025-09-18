@@ -8,7 +8,8 @@ A simple Python program to calculate **Simple Interest**.
 - **R** = Rate of Interest (%)  
 - **T** = Time (in years)  
 
-## Usage
+
+## Instructions 
 Run the script:
 ```bash
 python simple_interest.py
